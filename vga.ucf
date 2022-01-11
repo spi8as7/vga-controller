@@ -1,0 +1,7 @@
+NET "clk" LOC = "C9";
+NET "resetbutton" LOC = "L14";
+NET "VGA_RED"		LOC = "H14";
+NET "VGA_GREEN"		LOC = "H15";
+NET "VGA_BLUE"		LOC = "G15";
+NET "VGA_HSYNC"		LOC = "F15";
+NET "VGA_VSYNC"		LOC = "F14";
